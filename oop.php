@@ -1,4 +1,5 @@
 <?php
+
 //abstraktní trida ustredny a v ni protected $napetí
 abstract class  ustredny_Martin_{
 
